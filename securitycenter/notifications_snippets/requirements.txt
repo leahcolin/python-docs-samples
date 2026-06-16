@@ -1,0 +1,4 @@
+# [START scc_slack_notification_requirements]
+functions-framework==3.8.1
+requests==2.32.3
+# [END scc_slack_notification_requirements]
